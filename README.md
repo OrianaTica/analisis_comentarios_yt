@@ -37,8 +37,7 @@ Ejecutar script:
 python analisis_comentarios.py
 
 ---
-## Que lo hace especial?
-No se limita a contar palabras: interpreta el contexto y detecta menciones difusas o con errores.
+El codigo no se limita a contar palabras: interpreta el contexto y detecta menciones difusas o con errores.
 Es acumulativo: podés analizar muchos videos distintos sin perder los datos anteriores.
 Fácil de adaptar para otros contextos como películas, productos, series, etc.
 
